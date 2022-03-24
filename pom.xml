@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url> http://172.31.91.152:8000/mylandmarktech/repository/ebay-java-app-releases/</url>
+	      <url>http://18.204.18.56:8000/repository/td-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.91.152:8000/mylandmarktech/repository/ebay-java-app-snapshot/</url>
+	      <url>http://18.204.18.56:8000/repository/td-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
